@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build bestoverwatchskins",
+		"preview": "diy-pwa preview bestoverwatchskins"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
